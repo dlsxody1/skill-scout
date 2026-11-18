@@ -1,0 +1,14 @@
+{
+  "name": "dlsxody1",
+  "description": "김인태의 Claude Code 플러그인",
+  "owner": {
+    "name": "dlsxody1"
+  },
+  "plugins": [
+    {
+      "name": "skill-scout",
+      "source": "./plugins/skill-scout",
+      "description": "스킬을 찾고, 깔기 전에 출처와 보안, 적합성을 판정하고, 프로젝트에 맞게 고쳐 넣는다"
+    }
+  ]
+}
