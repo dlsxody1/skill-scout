@@ -1,7 +1,7 @@
 {
   "name": "skill-scout",
   "description": "스킬을 찾고, 깔기 전에 출처와 보안, 적합성을 판정하고, 프로젝트에 맞게 고쳐 넣는다",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "dlsxody1"
   },
